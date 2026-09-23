@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lose_black">#05070A</color>
+    <color name="lose_gold">#FFC62A</color>
+    <color name="lose_blue">#147BFF</color>
+    <color name="lose_white">#FFFFFF</color>
+    <color name="lose_muted">#A9B0BA</color>
+</resources>
