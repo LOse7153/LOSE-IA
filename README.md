@@ -10,6 +10,7 @@ Application Android de prédiction football.
 
 ## Contenu prévu
 - Matchs du lundi au dimanche
+- python
 - Analyse IA
 - Score exact probable
 - 1N2
